@@ -1,4 +1,4 @@
-# Cybersecurity Roadmap — a curated path into security roles
+# Cybersecurity Roadmap a curated path into security roles
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Links: hand-checked](https://img.shields.io/badge/links-hand--checked-brightgreen.svg)](#link-health)
@@ -38,7 +38,7 @@ prerequisites stated, because a certificate is evidence you studied, not a subst
 ## How to use this roadmap
 
 Work the stages in order; each one assumes the one before it. None of them is a course you must
-"finish" — the point of Stages 1–3 is that they stop you from running commands and reading logs you do
+"finish" the point of Stages 1–3 is that they stop you from running commands and reading logs you do
 not understand.
 
 - **Time is rough, not a promise.** The estimates below are typical *part-time* figures for someone
@@ -49,7 +49,7 @@ not understand.
 - **Write everything down.** Notes in Markdown with the commands, the raw output and your reasoning.
   That habit becomes your incident reports in Stage 5 and your portfolio in Stage 8.
 - **Two gates.** Every stage ends with a **Done when** test. If you cannot do it from memory with the
-  docs open, the stage is not finished — go back two links.
+  docs open, the stage is not finished go back two links.
 - **Blue team is the through-line.** Stages 4–6 are where real entry roles live, and they reward
   patience with logs far more than they reward cleverness.
 
@@ -145,7 +145,7 @@ Linux" into "I can talk about security work in an interview".
   why they are the questions you ask about any system.
 - Risk in the technical sense: asset, threat, vulnerability, likelihood, impact, control.
 - Threat modelling: trust boundaries, attacker goals, and the cheap questions that find real bugs.
-- The common attack classes — phishing, credential abuse, exploitation, web injection, ransomware —
+- The common attack classes phishing, credential abuse, exploitation, web injection, ransomware —
   and the control families that address them.
 - The frameworks employers use as shared language: NIST CSF, CIS Controls, MITRE ATT&CK, CVSS.
 
